@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
-    <StructureAddress>221322323F661390</StructureAddress>
+    <StructureAddress>147F410</StructureAddress>
     <ZoomCurrent>f4</ZoomCurrent>
     <ZoomMax>fc</ZoomMax>
     <FovCurrent>100</FovCurrent>
@@ -14,5 +14,5 @@
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2021-2-2 - patch 5.45 (DX11/DX9)</LastUpdate>
+  <LastUpdate>2020-11-8 - patch 5.4 (DX11/DX9)</LastUpdate>
 </Root>
